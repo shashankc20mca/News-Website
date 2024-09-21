@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Madeline Holcombe",
+          "title": "Ultraprocessed foods may increase your risk for type 2 diabetes, study shows - CNN",
+          "description": "Consuming more ultraprocessed foods could mean a greater risk for type 2 diabetes, according to new research. Experts share swaps you can make.",
+          "url": "https://www.cnn.com/2024/09/20/health/ultraprocessed-foods-type-2-diabetes/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1493474202.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-09-20T12:13:00Z",
+          "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nCan you tell what ingredients w… [+5644 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ScienceAlert"
+          },
+          "author": "ScienceAlert",
+          "title": "Scientists Just Identified Hundreds of Genes That Could Cause Cancer - ScienceAlert",
+          "description": null,
+          "url": "https://www.sciencealert.com/scientists-just-identified-hundreds-of-genes-that-could-cause-cancer",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T11:01:26Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": null,
+          "title": "New XEC Covid variant: What are the symptoms and is it spreading in the UK? - BBC.com",
+          "description": "XEC has some new mutations that might help it spread this autumn, scientists say.",
+          "url": "https://www.bbc.com/news/articles/c1jddenj5p5o",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cf09/live/95c52c30-741f-11ef-9423-ff8d003051c7.jpg",
+          "publishedAt": "2024-09-20T10:37:31Z",
+          "content": "People have started catching a new Covid variant that could soon take off and become the dominant type, according to scientists. \r\nIdentified in Germany, in June, cases of the XEC variant have since … [+3084 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T10:14:00Z",
+          "content": "[Removed]"
+      },
+      {
+          "source": {
+              "id": "associated-press",
+              "name": "Associated Press"
+          },
+          "author": "GERALD IMRAY",
+          "title": "Scientists in South Africa say they have identified the first known outbreak of rabies in seals - The Associated Press",
+          "description": "Tests on dead Cape fur seals in South Africa have shown some had rabies. Scientists say they believe it's the first evidence of the incurable disease spreading in a marine mammal species. Rabies affects mammals and can be passed to people. But it had only bee…",
+          "url": "https://apnews.com/article/seals-rabies-south-africa-environment-wildlife-faafc6b19a3e211853cd50952c5c802b",
+          "urlToImage": "https://dims.apnews.com/dims4/default/da59dad/2147483647/strip/true/crop/4920x2768+0+179/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F1c%2F181dc0423b60093d24f71007874b%2Fd5db1d2850f34529912fa8c636201322",
+          "publishedAt": "2024-09-20T09:33:00Z",
+          "content": "CAPE TOWN, South Africa (AP) Scientists in South Africa say they have identified an outbreak of rabies in seals that is believed to be the first time the virus has spread in sea mammals.\r\nAt least 24… [+4621 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": "Jessica Bradley",
+          "title": "Why chocolate might not be behind your acne - BBC.com",
+          "description": "Chocolate has long been considered a possible cause of acne, alongside other sweet treats. But it appears that bad reputation may be undeserved.",
+          "url": "https://www.bbc.com/future/article/20240919-why-chocolate-might-not-be-behind-your-acne",
+          "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jrkbwk.jpg",
+          "publishedAt": "2024-09-20T09:04:57Z",
+          "content": "Chocolate has long been considered a possible cause of acne, alongside other sweet treats. But it appears that bad reputation may be undeserved.\r\nChocolate has long had a reputation for causing spots… [+7629 chars]"
+      },
+      {
+          "source": {
+              "id": "usa-today",
+              "name": "USA Today"
+          },
+          "author": "Daryl Austin",
+          "title": "What causes brain tumors? Here's why they're not that common. - USA TODAY",
+          "description": "Understanding what brain tumors are and what causes them can be helpful in taking steps to prevent them.",
+          "url": "https://www.usatoday.com/story/life/health-wellness/2024/09/20/what-causes-brain-tumors/75067024007/",
+          "urlToImage": "https://www.usatoday.com/gcdn/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/03/30/USATODAY/usatsports/imageforentry29-c2z.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+          "publishedAt": "2024-09-20T09:03:18Z",
+          "content": "Tumors are one of the most misunderstood diagnoses or conditions. While no one wants to be told they have one, many people don't realize that a tumor is nothing more than a clump of abnormal cells th… [+5770 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Angelica Stabile",
+          "title": "During pregnancy, a woman's brain experiences 'profound changes,' new study finds - Fox News",
+          "description": "A new study mapped how the brain responds to rapid hormonal changes during pregnancy, which could explain a wide range of experiences that pregnant women have, according to experts.",
+          "url": "https://www.foxnews.com/health/pregnancy-woman-brain-experiences-profound-changes-new-study-finds",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/pregnancy-brain.png",
+          "publishedAt": "2024-09-20T08:30:00Z",
+          "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5644 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "FOX 11 Los Angeles"
+          },
+          "author": "Gina Silva",
+          "title": "California woman, 23, suffers life-threatening reaction after hospital allegedly required vaccines - FOX 11 Los Angeles",
+          "description": "Alleged vaccines to treat a blood condition left a 23-year-old woman turning purple and is now fighting for her life at the hospital.",
+          "url": "https://www.foxla.com/news/california-woman-vaccine-reaction",
+          "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/1280/720/california-woman-vaccine-reaction.jpg?ve=1&tl=1",
+          "publishedAt": "2024-09-20T07:00:22Z",
+          "content": "IRVINE, Calif. - In a viral TikTok video, 23-year-old Alexis Lorenze shares one of her darkest struggles with her followers, saying, \"This is absolutely the worst thing I’ve ever been through.\"\r\nAlex… [+1319 chars]"
+      },
+      {
+          "source": {
+              "id": "cbs-news",
+              "name": "CBS News"
+          },
+          "author": "Lauren Victory",
+          "title": "Be warned: Check your insurance before getting a COVID-19 vaccine this year - CBS News",
+          "description": "The Federal Drug Administration ended a program that provided free COVID-19 vaccines in August of 2024.",
+          "url": "https://www.cbsnews.com/chicago/news/covid-shot-2024-coverage/",
+          "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/19/0c60bf02-8de1-4a97-b114-7a17607c589a/thumbnail/1200x630/b9a847f8769b63f0d87d2c30b551d157/covid-vaccine-2024.png?v=159d4576ec63c034c87559bf5085176a",
+          "publishedAt": "2024-09-20T03:20:00Z",
+          "content": "Ed Pliml was shocked to learn that the new COVID-19 booster shot was going to cost him more than $100 thanks to a change in federal funding.\r\nHe showed CBS News Chicago the mark he received from the … [+4490 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Whec.com"
+          },
+          "author": "Taylor Liberti",
+          "title": "COVID cases rise in Monroe County, but deaths remain low, doctors say - News10NBC",
+          "description": "ROCHESTER, N.Y. — It’s not uncommon for illness to spike after Labor Day, and Monroe County is seeing some of that now. COVID cases are on the rise in Monroe County – even more so than compared to last year at this time, according to Dr. Marielena Velez de Br…",
+          "url": "https://www.whec.com/local/covid-cases-rise-in-monroe-county-but-deaths-remain-low-doctors-say/",
+          "urlToImage": "https://www.whec.com/wp-content/uploads/2024/09/COVID.jpg",
+          "publishedAt": "2024-09-20T00:45:00Z",
+          "content": "ROCHESTER, N.Y. It’s not uncommon for illness to spike after Labor Day, and Monroe County is seeing some of that now. \r\nCOVID cases are on the rise in Monroe County – even more so than compared to la… [+1506 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ScienceAlert"
+          },
+          "author": "ScienceAlert",
+          "title": "Common Diabetes Medication Slows Brain Aging in Monkeys - ScienceAlert",
+          "description": null,
+          "url": "https://www.sciencealert.com/common-diabetes-medication-slows-brain-aging-in-monkeys",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T00:15:26Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": null,
+          "title": "The cancers with longest treatment waits revealed - BBC.com",
+          "description": "Patients with bowel, gynaecological and head and neck cancers are more likely to face delays.",
+          "url": "https://www.bbc.com/news/articles/cwy948p4j5wo",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60a2/live/ecc1cab0-7696-11ef-acda-e96fa573e779.jpg",
+          "publishedAt": "2024-09-20T00:07:23Z",
+          "content": "There is an unacceptable variation in waits for treatment of different cancers in England, an exclusive analysis for BBC News by Cancer Research UK shows.\r\nPatients with cancers affecting the head an… [+3368 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "2024-09-19T23:01:52Z",
+          "content": "[Removed]"
+      },
+      {
+          "source": {
+              "id": "abc-news",
+              "name": "ABC News"
+          },
+          "author": "ABC News",
+          "title": "Overdose deaths have continued to drop, now at their lowest level in 3 years, data shows - ABC News",
+          "description": null,
+          "url": "https://abcnews.go.com/Health/overdose-deaths-continued-drop-now-lowest-level-3/story?id\\\\u003d113844708",
+          "urlToImage": null,
+          "publishedAt": "2024-09-19T22:04:12Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "WMUR Manchester"
+          },
+          "author": "Tom Garris",
+          "title": "Lebanon medical center receives pollen counter for allergy 'peak week' - WMUR Manchester",
+          "description": "This fall, doctors in New England are gaining a better understanding of pollen and other airborne allergies, thanks to a new pollen counting station.",
+          "url": "https://www.wmur.com/article/pollen-counter-new-england-allergies/62285834",
+          "urlToImage": "https://kubrick.htvapps.com/vidthumb/14b5d067-316b-44ab-927f-1937e6fd51e5/11f1afbd-02b4-4c98-94c6-e721e4767bc2.jpg?crop=0.790xw:0.788xh;0.119xw,0&resize=1200:*",
+          "publishedAt": "2024-09-19T21:25:00Z",
+          "content": "MANCHESTER, N.H. —Hospitals are preparing for an increased number of emergency room visits as New England enters allergy peak week, the time of year when asthma and allergy cases surge. \r\nEverybody s… [+1367 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Madeline Holcombe",
+          "title": "Feel like GLP-1s are affecting your mood? Experts say these factors may be at play - CNN",
+          "description": "Whether positive or negative, your mood may feel different on GLP-1 medications. Researchers share why that might be and how you can best take care of yourself.",
+          "url": "https://www.cnn.com/2024/09/19/health/glp-1-mood-weight-loss-wellness/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161043687.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-09-19T21:16:00Z",
+          "content": "Editors note: If you or someone you know is struggling with suicidal thoughts or mental health matters, please call the 988 Suicide &amp; Crisis Lifeline by dialing 988 to connect with a trained coun… [+8312 chars]"
+      },
+      {
+          "source": {
+              "id": "cbs-news",
+              "name": "CBS News"
+          },
+          "author": "Alexander Tin",
+          "title": "Whooping cough wave now worst in almost a decade amid back-to-school surge - CBS News",
+          "description": "Many of the pertussis infections have been reported in older children and adults.",
+          "url": "https://www.cbsnews.com/news/whooping-cough-pertussis-back-to-school-surge/",
+          "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/18/7b0c92f0-fad5-4c82-92b2-3ad897a7425d/thumbnail/1200x630/8622c3d588bc5a726d56403e7a749c19/backpacks.jpg?v=159d4576ec63c034c87559bf5085176a",
+          "publishedAt": "2024-09-19T20:55:00Z",
+          "content": "South Jersey family shares scary experience with whooping cough \r\nSouth Jersey family shares scary experience with whooping cough02:12\r\nThis year's resurgence of whooping cough cases has now accelera… [+4914 chars]"
+      },
+      {
+          "source": {
+              "id": "the-hill",
+              "name": "The Hill"
+          },
+          "author": "Nathaniel Weixel",
+          "title": "Report: Cancer deaths have dropped, but alcohol is factor in new cases - The Hill",
+          "description": "Scientific advances helped avert 4.1 million deaths from cancer in the 30 years between 1991 and 2021 according to a new report, but the disease continues to be a public health challenge.  The report, released Wednesday by the American Association for Cancer …",
+          "url": "https://thehill.com/policy/healthcare/4889293-cancer-death-rate-decline-report/",
+          "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/Cancer_012324_Illustratation_AdobeStock.png?w=1280",
+          "publishedAt": "2024-09-19T20:18:00Z",
+          "content": "Skip to content\r\nScientific advances helped avert 4.1 million deaths from cancer in the 30 years between 1991 and 2021 according to a new report, but the disease continues to be a public health chall… [+2354 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "2024-09-19T20:12:00Z",
+          "content": "[Removed]"
+      }
+  ]
+}

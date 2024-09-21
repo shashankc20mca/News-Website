@@ -16,25 +16,28 @@ let input=document.querySelector(".line1 .search input");
 
 
 function tesla(){
-   url="https://newsapi.org/v2/everything?q=tesla&from=2024-08-21&sortBy=publishedAt&apiKey=202af0b2c503431b99b5407ade363bb5";
+   url="response.json";
   fetch_news(1);
  
 }
 
-function news(){
-   url="https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=202af0b2c503431b99b5407ade363bb5";
+function Tech(){
+  //  url="https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=202af0b2c503431b99b5407ade363bb5";
+  url="tech.json"
   fetch_news();
 }
 function business(){
-  url="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=202af0b2c503431b99b5407ade363bb5";
+  url="Business.json";
  fetch_news();
 }
 function health(){
-  url="https://newsapi.org/v2/top-headlines?country=us&category=health&apiKey=202af0b2c503431b99b5407ade363bb5";
+  // url="https://newsapi.org/v2/top-headlines?country=us&category=health&apiKey=202af0b2c503431b99b5407ade363bb5";
+  url="health.json"
  fetch_news();
 }
 function sports(){
-  url="https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=202af0b2c503431b99b5407ade363bb5";
+  // url="https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=202af0b2c503431b99b5407ade363bb5";
+  url="Sports.json";
  fetch_news();
 }
 
@@ -42,7 +45,7 @@ function fetch_news(){
   let r=document.querySelector(".cards");
 r.innerHTML="";
  
-fetch(url).then((r)=>(r.json())).then((ob)=>{
+fetch(url).then((r)=>{console.log(r);return (r.json())}).then((ob)=>{
   console.log(ob);console.log(ob.articles[8].author);
   for(let i=0;i<(ob.articles).length;i++){
     if( ob.articles[i].title!=null&&ob.articles[i].description!=null&&ob.articles[i].urlToImage!=null){

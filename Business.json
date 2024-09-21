@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 55,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Karen Friar",
+          "title": "Stock market today: S&P 500, Dow back away from records as Fed cheer fizzles - Yahoo Finance",
+          "description": "Rate-cut euphoria is fading amid reminders of risks to growth.",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-back-away-from-records-as-fed-cheer-fizzles-133049988.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RQY8cqJlD12LJmbk8vJAkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/41c0f3b0-73f9-11ef-bafd-5b9c5cd648f2",
+          "publishedAt": "2024-09-20T14:43:46Z",
+          "content": "US stocks dipped from record highs on Friday as rate-cut euphoria faded, with FedEx (FDX) earnings providing a reality check.\r\nThe S&amp;P 500 (^GSPC) fell roughly 0.3% after the benchmark index ende… [+3725 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Hugh Son, Leslie Josephs",
+          "title": "American Airlines in talks to pick Citigroup over rival bank Barclays for crucial credit card deal, sources say - CNBC",
+          "description": "American has been working with banks and card networks on a new deal with the aim of consolidating its business with a single issuer, sources tell CNBC.",
+          "url": "https://www.cnbc.com/2024/09/20/american-airlines-credit-card-talks-to-pick-citigroup-over-barclays.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107420096-1716578474023-gettyimages-2153859827-AFP_34TP6UL.jpeg?v=1726767264&w=1920&h=1080",
+          "publishedAt": "2024-09-20T13:00:01Z",
+          "content": "American Airlines is in talks to make Citigroup its exclusive credit card partner, dropping rival issuer Barclays from a partnership that dates back to the airline's 2013 takeover of US Airways, said… [+4250 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Barron's"
+          },
+          "author": "Barron's",
+          "title": "Will Trump Sell DJT Stock? - Barron's",
+          "description": null,
+          "url": "https://www.barrons.com/articles/trump-stock-djt-lockup-f1629e1d",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T12:59:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Energy.gov"
+          },
+          "author": null,
+          "title": "Biden-Harris Administration Announces Over $3 Billion to Support America's Battery Manufacturing Sector, Create Over 12,000 Jobs, and Enhance National Security - Energy.gov",
+          "description": "Investing in America Agenda Will Generate $16 Billion in Total Investment to Onshore Critical Materials Like Lithium, Support Good-Paying Union Jobs Across the Battery Sector, and Enhance the Nation’s Economic Competitiveness",
+          "url": "https://www.energy.gov/articles/biden-harris-administration-announces-over-3-billion-support-americas-battery",
+          "urlToImage": "https://www.energy.gov/modules/custom/energy_tokens/img/energy_logo.jpg",
+          "publishedAt": "2024-09-20T12:26:56Z",
+          "content": "WASHINGTON, D.C.  As part of the Biden-Harris Administrations Investing in America agenda, the U.S. Department of Energy (DOE) today announced over $3 billion for 25 selected projects across 14 state… [+6094 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Sara Salinas",
+          "title": "5 things to know before the stock market opens Friday - CNBC",
+          "description": "Here are the most important news items that investors need to start their trading day.",
+          "url": "https://www.cnbc.com/2024/09/20/5-things-to-know-before-the-stock-market-opens-friday-september-20.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107435038-1719597899192-gettyimages-451915994-ALLEN__CO_CONFERENCE.jpeg?v=1719597937&w=1920&h=1080",
+          "publishedAt": "2024-09-20T11:45:50Z",
+          "content": "Here are five key things investors need to know to start the trading day:\r\n1. 42,000\r\nThe Dow Jones Industrial Average closed above 42,000 for the first time Thursday after a 500-point rally. The S&a… [+3649 chars]"
+      },
+      {
+          "source": {
+              "id": "fortune",
+              "name": "Fortune"
+          },
+          "author": "Massimo Marioni",
+          "title": "PepsiCo North America CEO makes color-coded pie chart of his waking hours - Fortune",
+          "description": "Ram Krishnan, PepsiCo CEO of Beverages North America, relies on a colorful approach to time management as he leads Pepsi, Mountain Dew and Gatorade.",
+          "url": "https://fortune.com/2024/09/20/pepsico-north-america-ceo-ram-krishnan-color-coded-pie-chart-time-management/",
+          "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/Ram-Krishnan-Headshot-Grey-REC-e1726830149296.jpg?resize=1200,600",
+          "publishedAt": "2024-09-20T11:26:00Z",
+          "content": "PepsiCo CEO of Beverages North America, Ram Krishnan, relies on a colorful approach to time management to navigate his responsibilities leading some of the worlds top beverage brands.Speaking in Fort… [+4359 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Decrypt"
+          },
+          "author": "Decrypt",
+          "title": "Bitcoin Holds Its Ground—Here's Why Analysts Are Starting to Feel Optimistic - Decrypt",
+          "description": null,
+          "url": "https://decrypt.co/250485/bitcoin-analysts-feel-optimistic",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T11:12:07Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "bloomberg",
+              "name": "Bloomberg"
+          },
+          "author": "Will Wade, Dina Bass",
+          "title": "Microsoft’s AI Power Needs Prompt Revival of Three Mile Island Nuclear Plant - Bloomberg",
+          "description": "Constellation to invest $1.6 billion to restart dormant reactor as data-center power demand surges.",
+          "url": "https://www.bloomberg.com/news/articles/2024-09-20/microsoft-s-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant",
+          "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD9EQmArlFGI/v0/1200x788.jpg",
+          "publishedAt": "2024-09-20T11:00:30Z",
+          "content": "The owner of the shuttered Three Mile Island nuclear plant in Pennsylvania will invest $1.6 billion to revive it, agreeing to sell all the output to Microsoft Corp. as the tech titan seeks carbon-fre… [+461 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Tom Carter",
+          "title": "Chechen Warlord Says Elon Musk Disabled His Cybertruck - Business Insider",
+          "description": "Ramzan Kadyrov previously claimed the pickup was a gift from Musk and suggested he might send it into war against Ukraine.",
+          "url": "https://www.businessinsider.com/chechen-warlord-says-elon-musk-disabled-his-cybertruck-2024-9",
+          "urlToImage": "https://i.insider.com/66c0c7745da406397bf6bcec?width=1200&format=jpeg",
+          "publishedAt": "2024-09-20T10:43:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MarketWatch"
+          },
+          "author": "Jamie Chisholm",
+          "title": "Analysts warned about the fallout from a surging yen. But then this happened. - MarketWatch",
+          "description": "Critical information for the U.S. trading day",
+          "url": "https://www.marketwatch.com/story/analysts-warned-about-the-fallout-from-a-surging-yen-but-then-this-happened-8c8dffbd",
+          "urlToImage": "https://images.mktw.net/im-02004364/social",
+          "publishedAt": "2024-09-20T10:31:00Z",
+          "content": "Fed week has delivered bigly for the bulls. \r\nThe U.S. central banks jumbo interest rate cut on Wednesday has revived risk appetite, pushing the S&amp;P 500 \r\nSPX and Dow Jones Industrial Average DJI… [+23 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Ethereum co-founder says partisanship will block Trump crypto plans - Financial Times",
+          "description": null,
+          "url": "https://www.ft.com/content/7a497898-38b7-4e84-9e8a-c2469ebafdc1",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T10:00:39Z",
+          "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Alicia Warren",
+          "title": "US economic toll of East Coast and Gulf port strike could be billions per day, trade expert warns - Fox Business",
+          "description": "National Association of Wholesaler-Distributors CEO Eric Hoplin suggests that the union is being \"too unreasonable\" as a potential strike could cost the U.S. economy billions.",
+          "url": "https://www.foxbusiness.com/media/us-economic-toll-east-coast-gulf-port-strike-could-be-billions-per-day-trade-expert-warns",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/Hoplin-VA-port.jpg?ve=1&tl=1",
+          "publishedAt": "2024-09-20T10:00:00Z",
+          "content": "The American economy could see billions wiped away in just one day if port workers along the U.S. East and Gulf coasts strike. \r\nEric Hoplin, CEO and President of the National Association of Wholesal… [+2985 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Reuters",
+          "title": "GM to recall over 449,000 pickup trucks, SUVs in US - Reuters",
+          "description": "General Motors is recalling 449,671 pickup trucks and SUVs in the U.S. due to inoperative low brake fluid warning, the U.S. National Highway Traffic Safety Administration said on Friday.",
+          "url": "https://www.reuters.com/business/autos-transportation/gm-recall-more-than-449000-vehicles-us-2024-09-20/",
+          "urlToImage": "https://www.reuters.com/resizer/v2/L646ILNBLVOPZLR5I6RDFSND6M.jpg?auth=89e4ee33f2cd43ce6a23662ec7b8d093e8e8a28c1ba21b8b48149f8a3c6441bf&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2024-09-20T09:58:59Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Post"
+          },
+          "author": "Richard Pollina",
+          "title": "DC coffee shop owner berates UberEats driver to ‘learn English’ in viral video —before health officials shut down store - New York Post ",
+          "description": "“This ain’t your f–king country! Learn English!”",
+          "url": "https://nypost.com/2024/09/20/us-news/dc-canna-coffee-owner-greg-harris-berates-ubereats-driver-to-learn-english-in-viral-tiktok-before-health-officials-shut-down-store/",
+          "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/DC-owner-shutdown.jpg?quality=75&strip=all&w=1024",
+          "publishedAt": "2024-09-20T08:55:00Z",
+          "content": "A Washington DC coffee shop owner erupted into a racist tirade against a Spanish-speaking Uber Eats delivery driver, demanding he “learn English” and mocking his language.\r\nCanna Coffee owner Greg Ha… [+3906 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Motley Fool"
+          },
+          "author": "The Motley Fool",
+          "title": "The Fed Just Cut Interest Rates: 3 Stocks to Buy Hand Over Fist - The Motley Fool",
+          "description": null,
+          "url": "https://www.fool.com/investing/2024/09/20/the-fed-just-cut-interest-rates-3-stocks-to-buy-ha/",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T08:45:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Karen Gilchrist",
+          "title": "Europe automaker shares slump after Mercedes becomes latest to cut 2024 guidance - CNBC",
+          "description": "Mercedes shares fell more than 8% Friday after the German carmaker cut its 2024 guidance on the back of weaker demand from China.",
+          "url": "https://www.cnbc.com/2024/09/20/mercedes-shares-slump-after-cutting-2024-guidance-on-weak-china-demand.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107395720-1712082837233-gettyimages-695755642-AFP_PH34L.jpeg?v=1726818933&w=1920&h=1080",
+          "publishedAt": "2024-09-20T08:03:59Z",
+          "content": "Mercedes shares fell more than 8% Friday after becoming the latest carmaker to cut its guidance this year as sluggish demand in China and trade disputes weigh on the sector.\r\nThe company said late Th… [+2849 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Jennifer Schonberger",
+          "title": "The many challenges facing Jay Powell as he tries to pull off a soft landing - Yahoo Finance",
+          "description": "Jay Powell argued this week that the Fed is not 'behind' as it starts rate cuts. \nHis main task in the coming months is to keep that narrative intact if the ...",
+          "url": "https://finance.yahoo.com/news/the-many-challenges-facing-jay-powell-as-he-tries-to-pull-off-a-soft-landing-080043406.html/",
+          "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+          "publishedAt": "2024-09-20T08:00:43Z",
+          "content": "Jay Powell argued this week that the Fed is not \"behind\" as it starts a cycle of interest rate cuts.\r\nHis main challenge in the coming months is to keep that narrative intact if the job market keeps … [+5130 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Anniek Bao",
+          "title": "Bank of Japan keeps key interest rate steady as it treads cautiously on normalizing policy - CNBC",
+          "description": "The decision came as the central bank seeks to wean its economy off the long-held ultra-easy monetary policy and curb the yen's slide against the U.S. dollar.",
+          "url": "https://www.cnbc.com/2024/09/20/bank-of-japan-keeps-benchmark-interest-rate-steady-as-it-treads-cautiously-on-normalizing-policy-.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107193967-1676336822877-gettyimages-1240268939-AFP_32927KV.jpeg?v=1726787079&w=1920&h=1080",
+          "publishedAt": "2024-09-20T03:07:00Z",
+          "content": "The Bank of Japan kept its benchmark interest rate steady at \"around 0.25%\" the highest rate since 2008 at the conclusion of a two-day meeting Friday. \r\nWhile the decision is in line with Reuters pol… [+2816 chars]"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Hannah Ziegler",
+          "title": "Nike CEO John Donahoe to step down; will be replaced by Elliott Hill - The Washington Post",
+          "description": "The shake-up comes amid slumping sales and aggressive competition from rivals.",
+          "url": "https://www.washingtonpost.com/business/2024/09/19/nike-ceo-elliott-hill-john-donahoe/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXN3XJ5MNKWV6SVFEFLRUCNAS4.JPG&w=1440",
+          "publishedAt": "2024-09-20T02:26:07Z",
+          "content": "Nike chief executive John Donahoe will retire next month, the company announced Thursday marking the latest shake-up for the sneaker giant during a period of sluggish sales.\r\nDonahoes last day with N… [+2047 chars]"
+      },
+      {
+          "source": {
+              "id": "axios",
+              "name": "Axios"
+          },
+          "author": "Axios",
+          "title": "The most important interest rate - Axios",
+          "description": null,
+          "url": "https://www.axios.com/2024/09/19/the-most-important-interest-rate",
+          "urlToImage": null,
+          "publishedAt": "2024-09-20T01:20:08Z",
+          "content": null
+      }
+  ]
+}
