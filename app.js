@@ -4,12 +4,14 @@ let url;
 
 
  function funtest(){
-  console.log("entered");
-let input=document.querySelector(".line1 .search input");
-  let msg=input.value;
-  url=`https://newsapi.org/v2/everything?q=${msg}&from=2024-08-21&sortBy=publishedAt&apiKey=202af0b2c503431b99b5407ade363bb5`;
-  fetch_news(1);
-  url=null;
+//   console.log("entered");
+// let input=document.querySelector(".line1 .search input");
+//   let msg=input.value;
+//   url=`https://newsapi.org/v2/everything?q=${msg}&from=2024-08-21&sortBy=publishedAt&apiKey=202af0b2c503431b99b5407ade363bb5`;
+//   fetch_news(1);
+//   url=null;
+let r=document.querySelector(".cards");
+r.innerHTML="<h1>As of now search bar functionality is not added.Will update in future!</h1>";
  }
 
 
